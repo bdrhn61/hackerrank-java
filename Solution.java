@@ -30,6 +30,6 @@ public class Solution {
         }
 
         if(count > 1)System.out.println("Method overloading is not allowed!");
-
+      
     }
 }
